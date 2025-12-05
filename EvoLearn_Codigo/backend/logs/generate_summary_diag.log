@@ -1,0 +1,144 @@
+[2025-11-18 17:03:03] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-UF7ni69.Hu6FWYS4Nx.sV7s618kjh7IW65GmSEtzyRSnedHV8Ms
+[2025-11-18 17:03:03] Auth OK, user_id=11
+[2025-11-18 17:03:03] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:03:03] INSERT SUCCESS, job_id=49
+[2025-11-18 17:11:39] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-ay+4ZX7MqG9_l8wpoVP1+mA6RzLblklNFbl_dN_4MUrsz+oYRoR
+[2025-11-18 17:11:39] Auth OK, user_id=11
+[2025-11-18 17:11:39] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:11:39] INSERT SUCCESS, job_id=50
+[2025-11-18 17:31:23] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary--VzVZ.VN-7Xt0vNFvanW_ut.6oHAZRkS7_4GpQ.lU1JQ.GoyI-z
+[2025-11-18 17:31:23] Auth OK, user_id=11
+[2025-11-18 17:31:23] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:31:23] INSERT SUCCESS, job_id=51
+[2025-11-18 17:51:48] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-xf01jchQs2Y4stVRuEUOhrS4e_ab8YQlW24eFnKc5uRrpXLEhtQ
+[2025-11-18 17:51:48] Auth OK, user_id=11
+[2025-11-18 17:51:48] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:51:48] INSERT SUCCESS, job_id=52
+[2025-11-18 17:56:32] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-P7zu4IWTR_eyHGhnj23CGDcEZo1j_IdFLbVaC.0QBuhLQAR0fKh
+[2025-11-18 17:56:32] Auth OK, user_id=11
+[2025-11-18 17:56:32] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:56:32] INSERT SUCCESS, job_id=53
+[2025-11-18 17:57:20] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-gevreaVAfyk2JJ0S0LeQK5CPzJ0nXnV2LnghLJ+hn4ThZIFfmSG
+[2025-11-18 17:57:20] Auth OK, user_id=11
+[2025-11-18 17:57:21] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 17:57:21] INSERT SUCCESS, job_id=54
+[2025-11-18 18:03:36] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-xs1m1S+GsX6jbA-1LCwu2KndbSm92rILKiZ1gWDAvVj5kTgOt4.
+[2025-11-18 18:03:36] Auth OK, user_id=11
+[2025-11-18 18:03:36] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-18 18:03:36] INSERT SUCCESS, job_id=55
+[2025-11-18 18:22:01] METHOD=POST AUTH=Bearer 2edb636964b3186ce6943695867f6896c43f2d973170c8f940fbeefdad8cba4f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-wR15-tqg8TdiySKQe6qGRQkVaiQLOIR8-8ie+io68NYsrr_LkSP
+[2025-11-18 18:22:01] Auth OK, user_id=11
+[2025-11-18 18:22:01] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_detailed
+[2025-11-18 18:22:01] INSERT SUCCESS, job_id=56
+[2025-11-19 01:42:08] METHOD=POST AUTH=Bearer b7339073569398ed64a0c5cbec2399b260a029ba5f28763688fb52d807e18fc5 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-JEMsDA4o+p8N_4O6KFp+B+iMBKWUCLtp-wjontCza64sq0J1I.1
+[2025-11-19 01:42:08] Auth OK, user_id=11
+[2025-11-19 01:42:09] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/Unidad 3 - Internet.pdf, analysis_type=summary_fast
+[2025-11-19 01:42:09] INSERT SUCCESS, job_id=57
+[2025-11-19 01:46:27] METHOD=POST AUTH=Bearer b7339073569398ed64a0c5cbec2399b260a029ba5f28763688fb52d807e18fc5 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-ABuYkRuyWDpqDj9x542FjA8TXoud7VpAszZcsVrJ8aSz0rtOgWU
+[2025-11-19 01:46:27] Auth OK, user_id=11
+[2025-11-19 01:46:27] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/Unidad 3 - Internet.pdf, analysis_type=summary_fast
+[2025-11-19 01:46:27] INSERT SUCCESS, job_id=58
+[2025-11-19 01:52:57] METHOD=POST AUTH=Bearer b7339073569398ed64a0c5cbec2399b260a029ba5f28763688fb52d807e18fc5 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-+k1.qycc6VtZYd_Ux8hFfY3PCna.leT5c-k-Sgo_GQe7vE+dlce
+[2025-11-19 01:52:57] Auth OK, user_id=11
+[2025-11-19 01:52:57] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/Unidad 3 - Internet.pdf, analysis_type=summary_fast
+[2025-11-19 01:52:57] INSERT SUCCESS, job_id=59
+[2025-11-19 01:54:22] METHOD=POST AUTH=Bearer b7339073569398ed64a0c5cbec2399b260a029ba5f28763688fb52d807e18fc5 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-ED6A7Q1LC.VRnwb+q.atPznpUpESxPtcwYigRu0XIp1z29I3xaW
+[2025-11-19 01:54:22] Auth OK, user_id=11
+[2025-11-19 01:54:22] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/Unidad 3 - Internet.pdf, analysis_type=summary_detailed
+[2025-11-19 01:54:22] INSERT SUCCESS, job_id=60
+[2025-11-19 18:28:55] METHOD=POST AUTH=Bearer d0ab7115aaba9ede4f1e801c21d8f7bbd22e36953fd90dd1f1fd97ae5e165f5f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-8cT3dInPv7-DwvygaRk9hUyZlB0uRk.jCb4w3fpYO1+.lLLeTd4
+[2025-11-19 18:28:55] Auth OK, user_id=11
+[2025-11-19 18:28:56] About to INSERT job: user_id=11, file_rel_path=Soluciones Moviles/ejemplo.pdf, analysis_type=summary_fast
+[2025-11-19 18:28:56] INSERT SUCCESS, job_id=61
+[2025-11-19 18:30:22] METHOD=POST AUTH=Bearer d0ab7115aaba9ede4f1e801c21d8f7bbd22e36953fd90dd1f1fd97ae5e165f5f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-9yj3CrzRVUs-v76+4YUBGBQToKTGT9Mbz4UwYiY+LjPkaMr9J6l
+[2025-11-19 18:30:22] Auth OK, user_id=11
+[2025-11-19 18:30:22] About to INSERT job: user_id=11, file_rel_path=Soluciones Moviles/ejemplo.pdf, analysis_type=summary_detailed
+[2025-11-19 18:30:22] INSERT SUCCESS, job_id=62
+[2025-11-19 20:34:32] METHOD=POST AUTH=Bearer d0ab7115aaba9ede4f1e801c21d8f7bbd22e36953fd90dd1f1fd97ae5e165f5f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-.bp26e14izYJ8di+3FMD5s+Y3gSMEk8CHq921FP0X3kUnhzssIX
+[2025-11-19 20:34:32] Auth OK, user_id=11
+[2025-11-19 20:34:32] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/ipv4.pdf, analysis_type=summary_fast
+[2025-11-19 20:34:32] INSERT SUCCESS, job_id=63
+[2025-11-19 20:35:02] METHOD=POST AUTH=Bearer d0ab7115aaba9ede4f1e801c21d8f7bbd22e36953fd90dd1f1fd97ae5e165f5f CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-BTvcNm6KTg+GaVi+TUOx_oT.DgGbR2l_Q9.bntW-rzFCfxWLcdM
+[2025-11-19 20:35:02] Auth OK, user_id=11
+[2025-11-19 20:35:03] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/ipv4.pdf, analysis_type=summary_detailed
+[2025-11-19 20:35:03] INSERT SUCCESS, job_id=64
+[2025-11-20 19:11:15] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary--RsJ-R2dQX.ZQAkjLsY0POAjNHOe0h6gpy4wJujsBlcosfattAO
+[2025-11-20 19:11:15] Auth OK, user_id=11
+[2025-11-20 19:11:15] About to INSERT job: user_id=11, file_rel_path=IA/Comandos Cisco IOS.pdf, analysis_type=summary_fast
+[2025-11-20 19:11:15] INSERT SUCCESS, job_id=65
+[2025-11-22 15:44:25] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-22 15:44:25] Auth OK, user_id=11
+[2025-11-22 16:12:16] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-22 16:12:16] Auth OK, user_id=11
+[2025-11-22 16:13:08] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-22 16:13:08] Auth OK, user_id=11
+[2025-11-22 16:31:41] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-22 16:31:41] Auth OK, user_id=11
+[2025-11-22 16:41:14] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json
+[2025-11-22 16:41:14] Auth OK, user_id=11
+[2025-11-22 16:41:14] About to INSERT job: user_id=11, file_rel_path=, analysis_type=summary_fast
+[2025-11-22 16:41:14] INSERT FAILED: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'file_path' cannot be null
+[2025-11-22 16:43:18] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json
+[2025-11-22 16:43:18] Auth OK, user_id=11
+[2025-11-22 16:43:19] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-22 16:43:19] INSERT FAILED: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'file_path' cannot be null
+[2025-11-22 16:49:05] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json
+[2025-11-22 16:49:05] Auth OK, user_id=11
+[2025-11-22 16:49:05] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-22 16:49:05] INSERT FAILED: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'file_path' cannot be null
+[2025-11-22 16:52:15] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json
+[2025-11-22 16:52:15] Auth OK, user_id=11
+[2025-11-22 16:52:16] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-22 16:52:16] INSERT SUCCESS, job_id=66
+[2025-11-24 14:44:37] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-XBDMe2+ERlC4CX0juEQh6aEi4sf67Ku10aApvL6MQKhirx0Ibg1
+[2025-11-24 14:44:37] Auth OK, user_id=11
+[2025-11-24 14:44:37] About to INSERT job: user_id=11, file_rel_path=ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 14:44:37] INSERT SUCCESS, job_id=68
+[2025-11-24 14:53:59] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 14:53:59] Auth OK, user_id=11
+[2025-11-24 14:54:00] About to INSERT job: user_id=11, file_rel_path=uploads/11/ejemplo.pdf, analysis_type=summary_fast
+[2025-11-24 14:54:00] INSERT SUCCESS, job_id=69
+[2025-11-24 14:59:52] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 14:59:52] Auth OK, user_id=11
+[2025-11-24 14:59:52] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 14:59:52] INSERT SUCCESS, job_id=70
+[2025-11-24 15:46:02] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 15:46:02] Auth OK, user_id=11
+[2025-11-24 15:46:02] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 15:46:02] INSERT SUCCESS, job_id=71
+[2025-11-24 15:52:36] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 15:52:36] Auth OK, user_id=11
+[2025-11-24 15:52:36] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 15:52:36] INSERT SUCCESS, job_id=72
+[2025-11-24 16:57:48] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 16:57:48] Auth OK, user_id=11
+[2025-11-24 16:57:48] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 16:57:48] INSERT SUCCESS, job_id=73
+[2025-11-24 17:01:33] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 17:01:33] Auth OK, user_id=11
+[2025-11-24 17:01:33] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 17:01:33] INSERT SUCCESS, job_id=74
+[2025-11-24 18:25:16] METHOD=POST AUTH=Bearer 82a036afe935c134549bed7e0f427879ea12af397c30cce65a463583dd8f7b9a CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-24 18:25:16] Auth OK, user_id=11
+[2025-11-24 18:25:17] About to INSERT job: user_id=11, file_rel_path=uploads/11/ipv4.pdf, analysis_type=summary_fast
+[2025-11-24 18:25:17] INSERT SUCCESS, job_id=75
+[2025-11-26 20:17:47] METHOD=POST AUTH=Bearer 42882c4f3b7b7e90f62aa0d9d3ada8227997d62190d80c09cc83c39054d547e0 CONTENT_TYPE=application/json; charset=utf-8
+[2025-11-26 20:17:47] Auth OK, user_id=11
+[2025-11-26 20:17:47] About to INSERT job: user_id=11, file_rel_path=Redes/Unidad I/ipv4.pdf, analysis_type=summary_fast
+[2025-11-26 20:17:47] INSERT SUCCESS, job_id=76
+[2025-11-26 20:44:15] METHOD=POST AUTH=Bearer 42882c4f3b7b7e90f62aa0d9d3ada8227997d62190d80c09cc83c39054d547e0 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-8BePAJSlhnoT3G5njNqSV9.iNj+ahrtJv7M2GFJg.g.M.UDwcro
+[2025-11-26 20:44:15] Auth OK, user_id=11
+[2025-11-26 20:44:16] About to INSERT job: user_id=11, file_rel_path=Redes II/subnetting.pdf, analysis_type=summary_fast
+[2025-11-26 20:44:16] INSERT SUCCESS, job_id=77
+[2025-11-27 14:46:53] METHOD=POST AUTH=Bearer e8e3dee3a25d4382c20091b1dff33f966d2b67e4da6e17a9940097970c9ce968 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-Hofna339lptp035f7bEFennNLsj4MV-Febt-yd74lFX-ZxN+lhW
+[2025-11-27 14:46:53] Auth OK, user_id=2
+[2025-11-27 14:46:53] About to INSERT job: user_id=2, file_rel_path=walas/ipv4.pdf, analysis_type=summary_fast
+[2025-11-27 14:46:53] INSERT SUCCESS, job_id=1
+[2025-11-27 14:47:20] METHOD=POST AUTH=Bearer e8e3dee3a25d4382c20091b1dff33f966d2b67e4da6e17a9940097970c9ce968 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-faSzDc8XMkOl6jag0.l5vugPSPwITtSYEPbJ7WyRJ5F+p6KGywi
+[2025-11-27 14:47:20] Auth OK, user_id=2
+[2025-11-27 14:47:20] About to INSERT job: user_id=2, file_rel_path=walas/ipv4.pdf, analysis_type=summary_detailed
+[2025-11-27 14:47:20] INSERT SUCCESS, job_id=2
+[2025-11-27 14:48:15] METHOD=POST AUTH=Bearer e8e3dee3a25d4382c20091b1dff33f966d2b67e4da6e17a9940097970c9ce968 CONTENT_TYPE=multipart/form-data; boundary=dart-http-boundary-3GUJcauUzwVDeyBBA5QjqyyJxpCI1fIbQxb+B3OZOIAOMxm_+kg
+[2025-11-27 14:48:15] Auth OK, user_id=2
+[2025-11-27 14:48:15] About to INSERT job: user_id=2, file_rel_path=walas/walas/cyb29_computer_int_sp.pdf, analysis_type=summary_fast
+[2025-11-27 14:48:15] INSERT SUCCESS, job_id=3

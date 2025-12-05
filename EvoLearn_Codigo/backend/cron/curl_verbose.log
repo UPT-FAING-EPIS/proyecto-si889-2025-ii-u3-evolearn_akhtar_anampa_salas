@@ -1,0 +1,10 @@
+* Host api.perplexity.ai:443 was resolved.
+* IPv6: (none)
+* IPv4: 104.18.27.48, 104.18.26.48
+*   Trying 104.18.27.48:443...
+* Connected to api.perplexity.ai (104.18.27.48) port 443
+* ALPN: curl offers h2,http/1.1
+*  CAfile: C:\Users\USUARIO\AppData\Local\cacert\cacert.pem
+*  CApath: none
+* SSL certificate problem: unable to get local issuer certificate
+* Closing connection

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White mortarboard (school cap) centered -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M28,44 L54,34 L80,44 L54,54 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,56 H64 V66 H44 Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M80,44 L90,50 L88,52 L88,66 C88,70 85,73 82,73 C79,73 76,70 76,66 L76,56 L74,54 Z"/>
+</vector>
