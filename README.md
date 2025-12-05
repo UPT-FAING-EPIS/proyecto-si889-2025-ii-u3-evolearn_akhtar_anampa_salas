@@ -1,33 +1,61 @@
-# Proyecto EvoLearn
+# 🚀 Proyecto EvoLearn
 
-## Descripción
-EvoLearn es una iniciativa tecnológica orientada a ayudar e incentivar el aprendizaje sobre cualquier tema que el usuario desee. Es una aplicación móvil que transforma documentos estáticos (PDF) en una experiencia de aprendizaje interactiva y organizada mediante el uso de Inteligencia Artificial.
+## 📘 Descripción
+**EvoLearn** es una aplicación móvil impulsada por **Inteligencia Artificial** que transforma documentos PDF en una **experiencia de aprendizaje interactiva**, organizada y dinámica.  
+Su propósito es facilitar el estudio, ahorrar tiempo y aumentar la comprensión de cualquier tema que el usuario desee aprender.
 
-## Integrantes
-*   **Akhtar Oviedo, Ahmed Hasan** - (2022074261)
-*   **Anampa Pancca, David Jordan** - (2022074268)
-*   **Salas Jimenez, Walter Emmanuel** - (2022073896)
+---
 
-## Visión del Proyecto
+## 👥 Integrantes
+- **Akhtar Oviedo, Ahmed Hasan** — (2022074261)  
+- **Anampa Pancca, David Jordan** — (2022074268)  
+- **Salas Jimenez, Walter Emmanuel** — (2022073896)
 
-### Problema
-Los estudiantes enfrentan dificultades para repasar o realizar resúmenes de manera eficiente. La metodología tradicional requiere mucho tiempo para leer extensos PDFs, identificar ideas principales y redactar resúmenes. Esto genera retrasos, inconsistencias y baja motivación.
+---
 
-### Solución y Propuesta de Valor
-EvoLearn ofrece una plataforma de apoyo al estudio que permite:
-*   **Organizar:** Gestión de directorios y subida de archivos PDF.
-*   **Analizar:** Uso de IA para generar resúmenes automáticos (generales o detallados) en formato Markdown.
-*   **Evaluar:** Generación de cuestionarios (quizzes) basados en los resúmenes para medir la comprensión.
-*   **Reforzar:** Revisión de respuestas con justificación del porqué.
+## 🎯 Visión del Proyecto
 
-### Capacidades Principales (MVP)
-*   Autenticación de usuarios (registro e inicio de sesión).
-*   Gestión de estructura de directorios y archivos.
-*   Análisis de contenido PDF con IA.
-*   Generación de resúmenes en formato .md.
-*   Generación y toma de quizzes con revisión de respuestas.
+### ❗ Problema
+Los estudiantes suelen invertir demasiado tiempo en:
+- Leer PDFs extensos  
+- Identificar ideas principales  
+- Elaborar resúmenes manualmente  
+- Organizar información para estudiar  
 
-## Videos
-Puedes ver las reacciones de los usuarios al utilizar EvoLearn en el siguiente enlace:
-[Videos de Reacciones](https://drive.google.com/drive/folders/1phfnr6Oii5i0CeX14tujDQAI3OTCUlcB)
-[Video Explicativo](https://youtu.be/oCPvFzb2JrQ)
+Esto genera retrasos, frustración, baja productividad y poca motivación.
+
+### 💡 Solución y Propuesta de Valor
+**EvoLearn** convierte el estudio tradicional en un proceso:
+- 🔹 Más rápido  
+- 🔹 Más organizado  
+- 🔹 Más interactivo  
+- 🔹 Más motivador  
+
+La plataforma permite:
+
+- 📂 **Organizar:** Crear directorios, gestionar archivos y subir PDFs.  
+- 🤖 **Analizar:** Generar resúmenes automáticos (generales o detallados) en **Markdown**.  
+- 📝 **Evaluar:** Crear quizzes basados en los resúmenes para medir comprensión.  
+- 🔍 **Reforzar:** Revisar respuestas con explicaciones claras y justificadas.
+
+---
+
+## 🧩 Capacidades Principales (MVP)
+- 🔐 Autenticación de usuarios (registro e inicio de sesión).  
+- 📁 Gestión de archivos y estructura de directorios.  
+- 📑 Análisis inteligente de contenido PDF con IA.  
+- ✍️ Generación de resúmenes en formato `.md`.  
+- 🎮 Creación y toma de quizzes con retroalimentación detallada.
+
+---
+
+## 🎥 Videos del Proyecto
+### 😮 Reacciones de Usuarios  
+🔗 https://drive.google.com/drive/folders/1phfnr6Oii5i0CeX14tujDQAI3OTCUlcB
+
+### 📹 Video Explicativo  
+🔗 https://youtu.be/oCPvFzb2JrQ
+
+---
+
+✨ *EvoLearn: Aprende más, estudia mejor, evoluciona siempre.*  
