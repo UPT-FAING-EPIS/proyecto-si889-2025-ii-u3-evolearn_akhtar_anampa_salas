@@ -27,6 +27,7 @@ EvoLearn ofrece una plataforma de apoyo al estudio que permite:
 *   Generación de resúmenes en formato .md.
 *   Generación y toma de quizzes con revisión de respuestas.
 
-## Reacciones del Uso del Aplicativo
+## Videos
 Puedes ver las reacciones de los usuarios al utilizar EvoLearn en el siguiente enlace:
 [Videos de Reacciones](https://drive.google.com/drive/folders/1phfnr6Oii5i0CeX14tujDQAI3OTCUlcB)
+[Video Explicativo](https://youtu.be/oCPvFzb2JrQ)
